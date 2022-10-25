@@ -10,7 +10,7 @@
             </span>
         </td>
         <td>
-            24/595
+            25/595
         </td>
     </tr>
     <tr>
@@ -49,6 +49,7 @@
 | 622  | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                   |                                                                            | Medium     |
 | 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                   |                                                                            | Easy       |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                   |                                                                            | Easy       |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](algorithms/java/DiameterOfBinaryTree.java) | Easy |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               |                                                                            | Medium     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               |                                                                            | Medium     |
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                 |                                                                            | Easy       |
