@@ -10,7 +10,7 @@
             </span>
         </td>
         <td>
-            25/595
+            26/595
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             </span>
         </td>
         <td>
-            30/1292
+            31/1292
         </td>
     </tr>
     <tr>
@@ -66,6 +66,7 @@
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🔒                        |                                                                            | Medium     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                           |                                                                            | Easy       |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             |                                                                            | Medium     |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](algorithms/java/longestConsecutiveSequence.java) | Medium |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             |                                                                            | Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               |                                                                            | Medium     |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     |  [Java](algorithms/java/MaximumDepthOfBinaryTree.java)                                                                          | Easy       |
