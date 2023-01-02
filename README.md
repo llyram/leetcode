@@ -75,7 +75,7 @@
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                         |                                                                            | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |                                                                            | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             |                                                                            | Medium     |
-| 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)                                                                       |                                                                            | Medium     |
+| 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       |                                                                            | Hard       |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     |                                                                            | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 |                                                                            | Easy       |
