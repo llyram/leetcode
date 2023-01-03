@@ -10,7 +10,7 @@
             </span>
         </td>
         <td>
-            26/595
+            27/618
         </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
             </span>
         </td>
         <td>
-            31/1292
+            32/1344
         </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
             </span>
         </td>
         <td> 
-            2/534
+            2/561
         </td>
     </tr>
 </table>
@@ -72,6 +72,7 @@
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | [Java](algorithms/java/MaximumDepthOfBinaryTree.java)                      | Easy       |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       |                                                                            | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                   |                                                                            | Medium     |
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArrayII.java)|Medium|
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                         |                                                                            | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |                                                                            | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             |                                                                            | Medium     |
