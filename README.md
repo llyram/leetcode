@@ -78,6 +78,7 @@
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       |                                                                            | Hard       |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     |                                                                            | Easy       |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArray.java)| Easy
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 |                                                                            | Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           |                                                                            | Easy       |
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     |                                                                            | Medium     |
