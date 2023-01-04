@@ -2,38 +2,7 @@
 
 ## My Leetcode Solutions
 
-<table>
-    <tr>
-        <td>
-            <span style="color:Green;font-weight:bold">
-                Easy
-            </span>
-        </td>
-        <td>
-            27/618
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <span style="color:Yellow;font-weight:bold">
-                Medium
-            </span>
-        </td>
-        <td>
-            32/1344
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <span style="color:Red;font-weight:bold">
-                Hard
-            </span>
-        </td>
-        <td> 
-            2/561
-        </td>
-    </tr>
-</table>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MaryllCastelino?extension=heatmap&border=0&radius=10)](https://leetcode.com/MaryllCastelino)
 
 | #    | Title                                                                                                                           | Solution                                                                   | Difficulty |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
@@ -45,6 +14,7 @@
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                     |                                                                            | Easy       |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                       |                                                                            | Medium     |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                             |                                                                            | Easy       |
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|[Java](algorithms/java/dailyTemperatures.java)|Medium|
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   |                                                                            | Easy       |
 | 622  | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                   |                                                                            | Medium     |
 | 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                   |                                                                            | Easy       |
