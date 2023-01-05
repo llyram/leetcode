@@ -48,7 +48,7 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |                                                                            | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             |                                                                            | Medium     |
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
-| 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       |                                                                            | Hard       |
+| 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     |                                                                            | Easy       |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArray.java)| Easy
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 |                                                                            | Easy       |
@@ -64,7 +64,7 @@
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               |                                                                            | Easy       |
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           |                                                                            | Easy       |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   |                                                                            | Medium     |
-| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       |                                                                            | Hard       |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](algorithms/java/medianOfTwoSortedArrays.java), [Python](/home/maryll/Projects/leetcode/algorithms/python/medianOfTwoSortedArrays.py)| Hard       |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |                                                                            | Medium     |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [Java](algorithms/java/addTwoNumbers.java)                                 | Medium     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Java](algorithms/java/twoSum.java), [Python](algorithms/python/twoSum.py) | Easy       |
