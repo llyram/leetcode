@@ -26,6 +26,7 @@
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/)|| Easy       |
 | 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|| Medium|
 | 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|| Easy       |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](algorithms/java/findTheDuplicateNumber.java) | Medium |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)|| Easy       |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](algorithms/java/validAnagram.java)| Easy       |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|| Medium     |
@@ -38,6 +39,7 @@
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)|| Easy       |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|| Medium     |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Java](algorithms/java/reorderList.java)|Medium|
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |[Java](algorithms/java/linkedListCycleII.java)| Medium |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](algorithms/java/linkedListCycle.java)|Easy|
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [Java](algorithms/java/longestConsecutiveSequence.java)| Medium     |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|| Easy       |
