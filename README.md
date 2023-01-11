@@ -38,6 +38,7 @@
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🔒|| Medium     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)|| Easy       |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|| Medium     |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Java](algorithms/java/LRUCache.java) | Medium |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/)|[Java](algorithms/java/reorderList.java)|Medium|
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |[Java](algorithms/java/linkedListCycleII.java)| Medium |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](algorithms/java/linkedListCycle.java)|Easy|
