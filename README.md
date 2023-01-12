@@ -48,6 +48,7 @@
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](algorithms/java/MaximumDepthOfBinaryTree.java)| Easy       |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|| Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|| Medium     |
+| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Java](algorithms/java/largestRectangleInHistogram.java) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArrayII.java)|Medium|
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|| Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|| Medium     |
