@@ -57,6 +57,7 @@
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArray.java)| Easy
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](algorithms/java/mergeKSortedLists.java) | Hard |
 | 22   | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/) | [Java](algorithms/java/generateParenthesis.java) | Medium |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|| Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|| Easy       |
