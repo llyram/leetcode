@@ -56,6 +56,7 @@
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](algorithms/java/searchInRotatedSortedArray.java) | Medium |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArray.java)| Easy
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](algorithms/java/mergeKSortedLists.java) | Hard |
 | 22   | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/) | [Java](algorithms/java/generateParenthesis.java) | Medium |
