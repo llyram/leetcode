@@ -58,6 +58,7 @@
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](algorithms/java/searchInRotatedSortedArray.java) | Medium |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArray.java)| Easy
+| 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Java](algorithms/java/reverseNodesInKGroup.java) | Hard |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](algorithms/java/mergeKSortedLists.java) | Hard |
 | 22   | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/) | [Java](algorithms/java/generateParenthesis.java) | Medium |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|| Easy       |
