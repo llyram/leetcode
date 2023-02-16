@@ -48,6 +48,7 @@
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Java](algorithms/java/bestTimeToBuyAndSellStock.java)| Medium     |
 | 111  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](algorithms/java/balancedBinaryTree.java) | Easy |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](algorithms/java/MaximumDepthOfBinaryTree.java)| Easy       |
+| 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](algorithms/java/sameTree.java) | Easy |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|| Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|| Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Java](algorithms/java/largestRectangleInHistogram.java) | Hard |
