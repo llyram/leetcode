@@ -61,6 +61,7 @@
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](algorithms/java/searchInRotatedSortedArray.java) | Medium |
+| 27   | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](algorithms/java/removeElement.java) | Easy |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](algorithms/java/removeDuplicatesFromSortedArray.java)| Easy
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Java](algorithms/java/reverseNodesInKGroup.java) | Hard |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](algorithms/java/mergeKSortedLists.java) | Hard |
