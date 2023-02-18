@@ -7,7 +7,7 @@
 |#|Title| Solution| Difficulty |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[Java](algorithms/java/maximumBagsWithFullCapacityOfRocks.java)| Medium     |
-| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)|| Easy       |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)|[Java](algorithms/java/percentageOfLetterInString.java)| Easy       |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|| Easy       |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|| Medium     |
 | 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|| Easy       |
