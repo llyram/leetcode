@@ -10,9 +10,9 @@
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)|[Java](algorithms/java/percentageOfLetterInString.java)| Easy       |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python](algorithms/python/kthDistinctStringInAnArray.py)| Easy       |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Java](algorithms/java/xorQueriesOfASubArray.java)| Medium     |
-| 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|| Easy       |
+| 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Java](algorithms/java/sumOfEvenNumbersAfterQueries.java)| Easy       |
 | 981  | [TimeBased Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Java](algorithms/java/timeBasedKeyValueStore.java) | Medium |
-| 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|| Easy       |
+| 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](algorithms/java/sortArrayByParity.java)| Easy       |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|| Medium     |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|| Easy       |
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Java](algorithms/java/carFleet.java)|Medium|
