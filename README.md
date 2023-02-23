@@ -20,6 +20,7 @@
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)|| Easy       |
 | 622  | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|| Medium     |
 | 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|| Easy       |
+| 572  | [Subtree of Another Tre](https://leetcode.com/problems/subtree-of-another-tree/) | [Java](algorithms/java/subtreeOfAnotherTree.java) | Easy |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](algorithms/java/permutationInString.java) | Medium |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|| Easy       |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Java](algorithms/java/DiameterOfBinaryTree.java)| Easy       |
