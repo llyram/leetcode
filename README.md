@@ -55,7 +55,7 @@
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](algorithms/java/MaximumDepthOfBinaryTree.java)| Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](algorithms/java/binaryTreeLevelOrderTraversal.java) | Medium |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](algorithms/java/sameTree.java) | Easy |
-| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|| Medium     |
+| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](algorithms/java/validateBinarySearchTree.java)| Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|| Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](algorithms/java/largestRectangleInHistogram.java) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](algorithms/java/removeDuplicatesFromSortedArrayII.java)|Medium|
