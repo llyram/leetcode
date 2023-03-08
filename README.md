@@ -35,7 +35,7 @@
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](algorithms/java/validAnagram.java)| Easy       |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|| Medium     |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](algorithms/java/lowestCommonAncestorOfABinarySearchTree.java) | Medium |
-| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|| Medium     |
+| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](algorithms/java/kthSmallestElementInABST.java), [Python](algorithms/python/kthSmallestElementInABST.py)| Medium     |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|| Easy       |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|| Easy       |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|| Easy       |
