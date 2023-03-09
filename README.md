@@ -5,7 +5,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/llyram?extension=heatmap&border=0&radius=10)](https://leetcode.com/llyram)
 
 |#|Title| Solution| Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[Java](algorithms/java/maximumBagsWithFullCapacityOfRocks.java)| Medium     |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)|[Java](algorithms/java/percentageOfLetterInString.java)| Easy       |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python](algorithms/python/kthDistinctStringInAnArray.py)| Easy       |
@@ -52,6 +52,7 @@
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|| Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Java](algorithms/java/bestTimeToBuyAndSellStock.java)| Medium     |
 | 111  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](algorithms/java/balancedBinaryTree.java) | Easy |
+| 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Java](algorithms/java/constructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](algorithms/java/MaximumDepthOfBinaryTree.java)| Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](algorithms/java/binaryTreeLevelOrderTraversal.java) | Medium |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](algorithms/java/sameTree.java) | Easy |
