@@ -8,6 +8,7 @@
 | ---- | ---- | ---- | ---- |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[Java](algorithms/java/maximumBagsWithFullCapacityOfRocks.java)| Medium     |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)|[Java](algorithms/java/percentageOfLetterInString.java)| Easy       |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)| [Python](algorithms/python/findKthBeautyOfANumber.py) | Easy |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python](algorithms/python/kthDistinctStringInAnArray.py)| Easy       |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Java](algorithms/java/countGoodNodesinBinaryTree.java) | Medium |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Java](algorithms/java/xorQueriesOfASubArray.java)| Medium     |
@@ -43,15 +44,17 @@
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](algorithms/java/binaryTreeRightSideView.java) | Medium |
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🔒|| Medium     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)|| Easy       |
+| 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](algorithms/java/findMinimumInRotatedSortedArray.java) | Medium |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|| Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](algorithms/java/LRUCache.java) | Medium |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)|[Java](algorithms/java/reorderList.java)|Medium|
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |[Java](algorithms/java/linkedListCycleII.java)| Medium |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](algorithms/java/linkedListCycle.java)|Easy|
+| 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [Java](algorithms/java/copyListWithRandomPointer.java) | Medium |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [Java](algorithms/java/longestConsecutiveSequence.java)| Medium     |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|| Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Java](algorithms/java/bestTimeToBuyAndSellStock.java)| Medium     |
-| 111  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](algorithms/java/balancedBinaryTree.java) | Easy |
+| 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](algorithms/java/balancedBinaryTree.java) | Easy |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Java](algorithms/java/constructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](algorithms/java/MaximumDepthOfBinaryTree.java)| Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](algorithms/java/binaryTreeLevelOrderTraversal.java) | Medium |
