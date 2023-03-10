@@ -80,18 +80,18 @@
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|| Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|| Easy       |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](algorithms/java/removeNthNodeFromEndOfList.java)|Medium|
-| 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|| Medium     |
-| 15   | [3Sum](https://leetcode.com/problems/3sum/)|| Medium     |
-| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|| Easy       |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|| Easy       |
-| 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|| Medium     |
-| 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|| Medium     |
-| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|| Easy       |
-| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|| Easy       |
-| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|| Easy       |
-| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|| Easy       |
-| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|| Medium     |
+| 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](algorithms/java/3SumClosest.java)| Medium     |
+| 15   | [3Sum](https://leetcode.com/problems/3sum/)|[Python](algorithms/python/3Sum.py)| Medium     |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](algorithms/python/longestCommonPrefix.py)| Easy       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](algorithms/python/RomanToInteger.py)| Easy       |
+| 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](algorithms/python/integerToRoman.py)| Medium     |
+| 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](algorithms/java/containerWithMostWater.py), [Python](algorithms/python/containerWithMostWater.py)| Medium     |
+| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](algorithms/python/palindromeNumber.py)| Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](algorithms/python/stringToInteger.py)| Easy       |
+| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](algorithms/python/reverseInteger.py)| Easy       |
+| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](algorithms/python/zigzagConversion.py)| Easy       |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](algorithms/python/longestPalindromicSubstring.py)| Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](algorithms/java/medianOfTwoSortedArrays.java), [Python](/home/maryll/Projects/leetcode/algorithms/python/medianOfTwoSortedArrays.py)| Hard       |
-| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) || Medium     |
+| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[Java](algorithms/java/longestSubstringWIthoutRepeatingCharacters.java)| Medium     |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](algorithms/java/addTwoNumbers.java)| Medium     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](algorithms/java/twoSum.java), [Python](algorithms/python/twoSum.py) | Easy       |
