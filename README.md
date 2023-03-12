@@ -13,6 +13,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Java](algorithms/java/countGoodNodesinBinaryTree.java) | Medium |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Java](algorithms/java/xorQueriesOfASubArray.java)| Medium     |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](algorithms/java/lastStoneWeight.java) | Easy |
+| 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java](algorithms/java/kClosestPointsToOrigin.java) | Medium |
 | 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Java](algorithms/java/sumOfEvenNumbersAfterQueries.java)| Easy       |
 | 981  | [TimeBased Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Java](algorithms/java/timeBasedKeyValueStore.java) | Medium |
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](algorithms/java/sortArrayByParity.java)| Easy       |
