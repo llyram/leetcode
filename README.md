@@ -74,6 +74,7 @@
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|| Medium     |
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
+| 36   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](algorithms/java/combinationSum.java) | Medium |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](algorithms/java/searchInRotatedSortedArray.java) | Medium |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](algorithms/java/removeElement.java) | Easy |
