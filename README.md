@@ -74,6 +74,7 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|| Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|| Medium     |
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Java](algorithms/java/permutations.java) | Medium |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
 | 36   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](algorithms/java/combinationSum.java) | Medium |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
