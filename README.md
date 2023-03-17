@@ -35,6 +35,7 @@
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/)|| Easy       |
 | 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|| Medium|
 | 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|| Easy       |
+| 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](algorithms/java/serializeAndDeserializeBinaryTree.java) | Hard |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](algorithms/java/findTheDuplicateNumber.java) | Medium |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)|| Easy       |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](algorithms/java/validAnagram.java)| Easy       |
