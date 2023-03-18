@@ -74,6 +74,7 @@
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](algorithms/java/minimumWindowSubstring.java), [Python](algorithms/python/minimumWindowSubstring.py) | Hard |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|| Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|| Medium     |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](algorithms/java/climbingStairs.java) | Easy |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|| Medium     |
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Java](algorithms/java/permutations.java) | Medium |
