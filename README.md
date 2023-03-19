@@ -68,6 +68,7 @@
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](algorithms/java/sameTree.java) | Easy |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](algorithms/java/validateBinarySearchTree.java)| Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|| Medium     |
+| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/)| [Java](algorithms/java/subsetsII.java)| Medium |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](algorithms/java/largestRectangleInHistogram.java) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](algorithms/java/removeDuplicatesFromSortedArrayII.java)|Medium|
 | 78   | [Subsets](https://leetcode.com/problems/subsets/) |[Java](algorithms/java/subsets.java)| Medium |
