@@ -80,6 +80,7 @@
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Java](algorithms/java/permutations.java) | Medium |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
+| 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](algorithms/java/combinationSumII.java) | Medium |
 | 36   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](algorithms/java/combinationSum.java) | Medium |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|| Easy       |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](algorithms/java/searchInRotatedSortedArray.java) | Medium |
