@@ -46,6 +46,7 @@
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|| Easy       |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|| Easy       |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](algorithms/java/kthLargestElementInAnArray.java) | Medium |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](algorithms/java/implementTrie.java)| Medium |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](algorithms/java/reverseLinkedList.java) | Easy       |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](algorithms/java/binaryTreeRightSideView.java) | Medium |
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🔒|| Medium     |
