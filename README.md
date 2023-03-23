@@ -73,6 +73,7 @@
 | 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/)| [Java](algorithms/java/subsetsII.java)| Medium |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](algorithms/java/largestRectangleInHistogram.java) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](algorithms/java/removeDuplicatesFromSortedArrayII.java)|Medium|
+| 79   | [Word Search](https://leetcode.com/problems/word-search/) | [Java](algorithms/java/wordSearch.java) | Medium |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/) |[Java](algorithms/java/subsets.java)| Medium |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](algorithms/java/minimumWindowSubstring.java), [Python](algorithms/python/minimumWindowSubstring.py) | Hard |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|| Medium     |
