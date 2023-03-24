@@ -20,6 +20,7 @@
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|| Medium     |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|| Easy       |
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/)|[Java](algorithms/java/carFleet.java)|Medium|
+| 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](algorithms/java/minCostClimbingStairs.java) | Easy |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](algorithms/java/dailyTemperatures.java)|Medium|
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)|| Easy       |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](algorithms/java/kthLargestElementInAStream.java) | Easy |
