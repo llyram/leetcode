@@ -47,6 +47,7 @@
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|| Easy       |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|| Easy       |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](algorithms/java/kthLargestElementInAnArray.java) | Medium |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](algorithms/java/wordSearchII.java) | Hard |
 | 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| [Java](algorithms/java/designAddAndSearchWordsDataStructure.java)| Medium |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](algorithms/java/implementTrie.java)| Medium |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](algorithms/java/reverseLinkedList.java) | Easy       |
