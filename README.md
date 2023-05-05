@@ -32,12 +32,13 @@
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|| Easy       |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Java](algorithms/java/DiameterOfBinaryTree.java)| Easy       |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|| Medium     |
-| 355  | [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | [Java](algorithms/java/designTwiter.java) | Medium |
+| 355  | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Java](algorithms/java/designTwiter.java) | Medium |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Java](algorithms/java/topKFrequentElements.java), [Python](algorithms/python/topKFrequentElements.py)| Medium     |
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/)|| Easy       |
 | 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|| Medium|
 | 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|| Easy       |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](algorithms/java/serializeAndDeserializeBinaryTree.java) | Hard |
+| 295  | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Java](algorithms/java/findMedianFromDataStream.java) | Hard |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](algorithms/java/findTheDuplicateNumber.java) | Medium |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)|| Easy       |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](algorithms/java/validAnagram.java)| Easy       |
@@ -62,7 +63,7 @@
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |[Java](algorithms/java/linkedListCycleII.java)| Medium |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](algorithms/java/linkedListCycle.java)|Easy|
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [Java](algorithms/java/copyListWithRandomPointer.java) | Medium |
-| 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Java](algorithms/java/palindromePartitioning.java) | Medium |
+| 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](algorithms/java/palindromePartitioning.java) | Medium |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [Java](algorithms/java/longestConsecutiveSequence.java)| Medium     |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|| Easy       |
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](algorithms/java/binaryTreeMaximumPathSum.java) | Medium |
