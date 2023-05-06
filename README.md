@@ -100,6 +100,7 @@
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|| Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|| Easy       |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](algorithms/java/removeNthNodeFromEndOfList.java)|Medium|
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](algorithms/python/letterCombinationsofAPhoneNumber.py) | Medium |
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](algorithms/java/3SumClosest.java)| Medium     |
 | 15   | [3Sum](https://leetcode.com/problems/3sum/)|[Python](algorithms/python/3Sum.py)| Medium     |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](algorithms/python/longestCommonPrefix.py)| Easy       |
