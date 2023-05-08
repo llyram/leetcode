@@ -85,6 +85,7 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|| Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](algorithms/java/climbingStairs.java) | Easy |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|| Medium     |
+| 51   | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](algorithms/python/n-queens.py) | Hard |
 | 49   | [Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](/home/maryll/Projects/leetcode/algorithms/java/groupAnagrams.java)| Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Java](algorithms/java/permutations.java) | Medium |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](algorithms/java/trappingRainWater.java)| Hard       |
