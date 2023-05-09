@@ -53,6 +53,7 @@
 | 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| [Java](algorithms/java/designAddAndSearchWordsDataStructure.java)| Medium |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](algorithms/java/implementTrie.java)| Medium |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](algorithms/java/reverseLinkedList.java) | Easy       |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](algorithms/python/numberOfIslands.py)| Medium |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](algorithms/java/binaryTreeRightSideView.java) | Medium |
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🔒|| Medium     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)|| Easy       |
