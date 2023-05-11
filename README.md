@@ -24,6 +24,7 @@
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](algorithms/java/dailyTemperatures.java)|Medium|
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)|| Easy       |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](algorithms/java/kthLargestElementInAStream.java) | Easy |
+| 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](algorithms/python/maxAreaOfIsland.py) | Medium |
 | 622  | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|| Medium     |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) |[Java](algorithms/java/taskScheduler.java) | Medium |
 | 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|| Easy       |
